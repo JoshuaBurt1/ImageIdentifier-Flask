@@ -1,4 +1,4 @@
-# Mushroom-Identifier
+# ImageIdentifier
 
 <b>Obtaining identification in terminal</b> <br>
 Run in code editor terminal (ie. Visual Studio code) via <i>predict_console.py</i> (change the results = model path to your image path) <br>
