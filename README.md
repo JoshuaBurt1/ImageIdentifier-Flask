@@ -12,4 +12,7 @@ Make a POST request in another application to http://localhost:5000/identify to 
 <b>Training custom dataset</b> <br>
 1. Create dataset folder structure (ie. mushroom_dataset). <br>
 2. Run <i>train.py</i> <br> <br>
-<b>Referece:</b> https://www.youtube.com/watch?v=aVKGjzAUHz0
+
+<b>Refereces:</b> <br>
+https://www.youtube.com/watch?v=aVKGjzAUHz0 <br>
+https://github.com/computervisioneng/image-classification-yolov8 <br>
