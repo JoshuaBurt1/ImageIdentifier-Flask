@@ -6,7 +6,7 @@ from PIL import Image
 
 app = Flask(__name__)
 
-model = YOLO('C:/Users/Josh/Desktop/WebDev/Python/imageIdentifiers/runs2/classify/train/weights/last.pt')  # load a custom model
+model = YOLO('C:/Users/Josh/Desktop/WebDev/Python/imageIdentifiers/runs/classify/train/weights/last.pt')  # load a custom model
 
 # POST REQUEST PREDICTION CODE
 @app.route('/identify', methods=['POST'])

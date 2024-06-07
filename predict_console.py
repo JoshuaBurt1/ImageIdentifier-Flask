@@ -6,7 +6,7 @@ from PIL import Image
 
 app = Flask(__name__)
 
-model = YOLO('C:/Users/Josh/Desktop/WebDev/Python/imageIdentifiers/runs2/classify/train/weights/last.pt')  # load a custom model
+model = YOLO('C:/Users/Josh/Desktop/WebDev/Python/imageIdentifiers/runs/classify/train/weights/last.pt')  # load a custom model
 
 #CONSOLE PREDICTION CODE
 results = model('C:/Users/Josh/Desktop/WebDev/Python/imageIdentifiers/testImage.jpg')  # predict on an image
