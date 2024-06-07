@@ -6,6 +6,6 @@
 ~Works with SpeciesTracker-NodeJS
 <br><br>
 
-<b>Training Custom Dataset</b> <br>
+<b>Training custom dataset</b> <br>
 <b>C.</b> 1. Create dataset folder structure (ie. mushroom_dataset). 2. Run <i>train.py</i> <br>
 <b>Referece:</b> https://www.youtube.com/watch?v=aVKGjzAUHz0
