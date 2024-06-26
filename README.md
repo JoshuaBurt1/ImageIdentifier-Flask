@@ -11,7 +11,7 @@ Make a POST request in another application to http://localhost:5000/identify or 
 
 <b>Training custom dataset</b> <br>
 1. Create dataset folder structure (i.e. mushroom_dataset). <br>
-2. Optional - run <i>_webcrawler_mushroomV.py</i> to find images to put in train and val folders 
+2. Optional - run <i>_webcrawler_mushroomVal.py</i> to find images to put in train and val folders 
 3. Run <i>train.py</i> <br> <br>
 
 <b>References:</b> <br>

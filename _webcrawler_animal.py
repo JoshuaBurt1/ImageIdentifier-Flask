@@ -1,3 +1,11 @@
+#TO DO
+# 1. Organic: 
+# A. iNaturalist (first five)
+# https://inaturalist.ca/observations?place_id=any&view=species
+# webscrape: observer, date, place
+# B. ProjectNoah
+# 2. Inorganic: make a rock and metal sample database as well
+
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
